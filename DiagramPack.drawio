@@ -1,0 +1,25 @@
+<mxfile host="Electron" modified="2024-04-23T19:03:37.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="ASpmJS53yUc-rNwbZWSg" version="23.1.5" type="device">
+  <diagram name="Page-1" id="NKCc5ePJSNr-1G3v9ZT_">
+    <mxGraphModel dx="794" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vb9G3_PhpDIxIMbHM-Uv-1" value="GUI" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb9G3_PhpDIxIMbHM-Uv-2" value="Business Logic&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb9G3_PhpDIxIMbHM-Uv-3" value="Model" style="shape=folder;fontStyle=1;tabWidth=80;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb9G3_PhpDIxIMbHM-Uv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=150;entryDy=55;entryPerimeter=0;dashed=1;endArrow=classic;endFill=1;endSize=10;" edge="1" parent="1" source="Vb9G3_PhpDIxIMbHM-Uv-2" target="Vb9G3_PhpDIxIMbHM-Uv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb9G3_PhpDIxIMbHM-Uv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=150;entryDy=55;entryPerimeter=0;endSize=14;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="Vb9G3_PhpDIxIMbHM-Uv-2" target="Vb9G3_PhpDIxIMbHM-Uv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
